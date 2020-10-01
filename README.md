@@ -21,6 +21,10 @@ Inspired by the above comment by [Brad Hodson](https://www.producthunt.com/@brad
 * [Understanding Git](https://hackernoon.com/understanding-git-fcffd87c15a3) - Git is a powerful tool, but it has a reputation of baffling newcomers. It doesn't help that most people are simply thrown in at the deep end and expected to swim. With the right knowledge, anyone can master git. Once you start to understand it, the terminology will make more sense and you'll (eventually) learn to love it.
 * [A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/) - You'll often hear about the CAP theorem which specifies some kind of an upper limit when designing distributed systems. This introductory tutorial explains the concept by comparing it with a real world situation.
 * [How to dance the OAuth: a step-by-step lesson](https://medium.freecodecamp.org/how-to-dance-the-oauth-a-step-by-step-lesson-fd2364d89742) - An easy guide for understanding the key concepts of OAuth 2.0
+* [Why use HTTPS?](https://www.cloudflare.com/learning/ssl/why-use-https/) - A useful guide from Cloudflare that illustrates the difference between HTTP and HTTPS and why should websites use HTTPS? It explains the HTTPS traffic, provides a history of how Google made HTTPS ubiquitous and the myths associated with HTTPS. A must read!
+* [What is HTTPS?](https://www.cloudflare.com/learning/ssl/what-is-https/) - This explains what is HTTPS, how it works, why is it important and learn how to get HTTPS on a website.
+* [What is SSL?](https://www.cloudflare.com/learning/ssl/what-is-ssl/) - This provides an overview of Secure Sockets Layer (SSL), how is it related to HTTPS and how does it work?
+* [What is an SSL Certificate?](https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/) - This explains what is an SSL certificate, what is in a SSL certificate, why is SSL/TLS encryption necessary and how to get a free SSL certificate.
 
 ## Contributing
 
